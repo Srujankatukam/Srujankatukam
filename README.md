@@ -10,11 +10,12 @@
 
 I am a **Full-Stack Software Engineer** and **AI Specialist** with a focus on bridging the gap between robust software architecture and cutting-edge Artificial Intelligence. Recently graduated with my **Master’s from Virginia Commonwealth University (Dec 2025)**, I’ve dedicated my academic and professional career to solving complex problems through scalable code.
 
-Currently, I'm an **Engineering Intern at Aeyesafe**, where I apply Health Tech solutions to real-world challenges. My true passion lies in **Generative AI**, specifically optimizing large-scale **RAG (Retrieval-Augmented Generation) systems** and developing immersive **Digital Humans**.
+My true passion lies in **Generative AI**, specifically optimizing large-scale **RAG (Retrieval-Augmented Generation) systems** and developing immersive **Digital Humans**.
 
 - 🔭 **Current Focus:** Scaling RAG architectures for enterprise-level data.
 - 🎓 **Education:** M.S. in Computer Science, VCU (Go Rams! 🐏).
 - ☁️ **Certified:** OCI Generative AI Professional & Oracle CPQ.
+- [cite_start]🏆 **Recognition:** IEEE Published Researcher & Smart India Hackathon Finalist[cite: 59, 61].
 - ⚡ **Fun Fact:** I believe the best AI systems aren't just smart—they're human-centric.
 
 ---
