@@ -16,7 +16,7 @@ My true passion lies in **Generative AI**, specifically optimizing large-scale *
 - 🎓 **Education:** M.S. in Computer Science, VCU (Go Rams! 🐏).
 - ☁️ **Certified:** OCI Generative AI Professional & Oracle CPQ.
 - 🏆 **Recognition:** IEEE Published Researcher & Smart India Hackathon Finalist.
-- ⚡ **Fun Fact:** I believe the best AI systems aren't just smart—they're human-centric.
+- ⚡ **Fun Fact:** I believe the best AI systems aren't just smart-they're human-centric.
 
 ---
 
