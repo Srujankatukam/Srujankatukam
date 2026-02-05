@@ -17,6 +17,10 @@ I am a **Full-Stack Engineer** and **AI Specialist** (MSCS VCU '25) dedicated to
 - ⚡ **Fun Fact:** I believe the best AI systems aren't just smart-they're human-centric.
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Srujankatukam&label=Profile%20Views&color=7AA2F7&style=flat" alt="Srujankatukam" />
+</p>
+---
 
 ### 🛠️ Tech Stack & Tools
 
@@ -56,35 +60,6 @@ I am a **Full-Stack Engineer** and **AI Specialist** (MSCS VCU '25) dedicated to
 * **IEEE Publication:** "Anti-Accident Mechanism to Detect Driver Drowsiness" 
 * **Winner (1st Prize):** EPITOME 23 Hackathon (Road Safety)
 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srujankatukam&show_icons=true&theme=tokyonight&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srujankatukam&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-
----
-
-### 🎵 Current Vibes & Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srujankatukam&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-### 🛠️ Arsenal & Skills
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,cpp,fastapi,postgres,redis,docker,kubernetes,azure,react,nextjs,tailwind,git,github,vscode,idea&perline=8" />
-  </a>
-</p>
-
-### 🏆 Achievements
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Srujankatukam&theme=flat&no-frame=true&margin-w=15" alt="Srujankatukam" /></a>
-</p>
 ---
 
 ### 🤝 Connect With Me
