@@ -15,7 +15,7 @@ My true passion lies in **Generative AI**, specifically optimizing large-scale *
 - 🔭 **Current Focus:** Scaling RAG architectures for enterprise-level data.
 - 🎓 **Education:** M.S. in Computer Science, VCU (Go Rams! 🐏).
 - ☁️ **Certified:** OCI Generative AI Professional & Oracle CPQ.
-- [cite_start]🏆 **Recognition:** IEEE Published Researcher & Smart India Hackathon Finalist[cite: 59, 61].
+- 🏆 **Recognition:** IEEE Published Researcher & Smart India Hackathon Finalist.
 - ⚡ **Fun Fact:** I believe the best AI systems aren't just smart—they're human-centric.
 
 ---
@@ -24,10 +24,10 @@ My true passion lies in **Generative AI**, specifically optimizing large-scale *
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED192D.svg?style=for-the-badge&logo=MathWorks&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![LangChain](https://img.shields.io/badge/🦜_LangChain-black?style=for-the-badge) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) |
-| **Cloud & DevOps** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-| **Full Stack** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **AI / ML** | ![LangChain](https://img.shields.io/badge/🦜_LangChain-black?style=for-the-badge) ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white) |
+| **Frontend** | ![Next.js 16](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS 4](https://img.shields.io/badge/Tailwind_4-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 
 ---
 
