@@ -33,30 +33,37 @@ My true passion lies in **Generative AI**, specifically optimizing large-scale *
 
 ### 🌟 Featured Projects
 
-#### 🤖 [AI Digital Human Platform](https://github.com/yourusername/digital-human)
-*Real-time interactive digital avatars utilizing low-latency TTS/STT and LLM integration.*
-- **Tech:** Python, WebSocket, OCI, Next.js.
-- **Key Outcome:** Achieved <200ms response latency for lifelike interactions.
+#### 🚀 [JOBNOVA - AI Job Board & Interview Assistant](https://github.com/SrujanKatukam/jobnova)
+*Real-time digital human assistant with sub-500ms latency.*
+- [cite_start]**Tech:** Next.js 16, FastAPI, TypeScript, Tavus Persona API, LiveKit[cite: 33].
+- **Impact:** Engineered bi-directional speech-to-speech interaction achieving **<500ms latency** by optimizing WebRTC streams. [cite_start]Orchestrated secure AI streaming sessions with rigorous Pydantic validation[cite: 34, 35].
 
-#### 🏗️ [Enterprise RAG Optimizer](https://github.com/yourusername/rag-optimizer)
-*Large-scale RAG system designed for document retrieval across millions of tokens.*
-- **Tech:** LangChain, Vector DBs (Pinecone/Milvus), OCI GenAI.
-- **Key Outcome:** Improved retrieval precision by 40% through hybrid search implementation.
+#### 🧠 [Enterprise Agentic RAG Assistant](https://github.com/SrujanKatukam/rag-assistant)
+*Role-based knowledge assistant using Microservices Architecture.*
+- [cite_start]**Tech:** LangChain, Vector DBs, Docker, Kubernetes, React[cite: 37].
+- **Impact:** Integrated retrieval across **10,000+ documents** with real-time web search. [cite_start]Reduced knowledge lookup time by **60%** through optimized indexing strategies[cite: 39, 41].
+
+#### 🗳️ [Election Sentiment Prediction](https://github.com/SrujanKatukam/election-sentiment)
+*End-to-end NLP pipeline analyzing social sentiment.*
+- [cite_start]**Tech:** DistilBERT, FastAPI, PostgreSQL, Docker[cite: 42].
+- **Impact:** Analyzed **8,100+ Reddit comments** achieving **89% sentiment classification accuracy** using a fine-tuned DistilBERT model. [cite_start]Deployed with horizontal scaling for concurrent requests[cite: 43, 45].
+
+---
+
+### 🏅 Certifications & Honors
+
+* [cite_start]**Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** [cite: 52]
+* [cite_start]**Oracle AI Vector Search Certified Professional** [cite: 52]
+* [cite_start]**IEEE Publication:** "Anti-Accident Mechanism to Detect Driver Drowsiness" [cite: 59]
+* [cite_start]**Winner (1st Prize):** EPITOME 23 Hackathon (Road Safety) [cite: 60]
 
 ---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srujankatukam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srujankatukam&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-
----
-
-### 🎵 Current Vibes & Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srujankatukam&theme=tokyonight" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrujanKatukam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrujanKatukam&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 ---
