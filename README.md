@@ -73,6 +73,19 @@ I am a **Full-Stack Engineer** and **AI Specialist** (MSCS VCU '25) dedicated to
 </p>
 
 ---
+### 🛠️ Arsenal & Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ts,cpp,fastapi,postgres,redis,docker,kubernetes,azure,react,nextjs,tailwind,git,github,vscode,idea&perline=8" />
+  </a>
+</p>
+
+### 🏆 Achievements
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Srujankatukam&theme=flat&no-frame=true&margin-w=15" alt="Srujankatukam" /></a>
+</p>
+---
 
 ### 🤝 Connect With Me
 <p align="center">
