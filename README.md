@@ -8,11 +8,9 @@
 
 ### 🚀 About Me
 
-I am a **Full-Stack Software Engineer** and **AI Specialist** with a focus on bridging the gap between robust software architecture and cutting-edge Artificial Intelligence. Recently graduated with my **Master’s from Virginia Commonwealth University (Dec 2025)**, I’ve dedicated my academic and professional career to solving complex problems through scalable code.
+I am a **Full-Stack Engineer** and **AI Specialist** (MSCS VCU '25) dedicated to bridging the gap between robust software architecture and cutting-edge Generative AI. My core focus is optimizing large-scale **RAG systems** and developing immersive **Digital Humans** to solve complex, real-world problems.
 
-My true passion lies in **Generative AI**, specifically optimizing large-scale **RAG (Retrieval-Augmented Generation) systems** and developing immersive **Digital Humans**.
-
-- 🔭 **Current Focus:** Scaling RAG architectures for enterprise-level data.
+- 🔭 **Current Focus:** Actively seeking Full-Stack & AI Engineering roles to build scalable, production-ready GenAI systems.
 - 🎓 **Education:** M.S. in Computer Science, VCU (Go Rams! 🐏).
 - ☁️ **Certified:** OCI Generative AI Professional & Oracle CPQ.
 - 🏆 **Recognition:** IEEE Published Researcher & Smart India Hackathon Finalist.
@@ -36,7 +34,7 @@ My true passion lies in **Generative AI**, specifically optimizing large-scale *
 #### 🚀 [JOBNOVA - AI Job Board & Interview Assistant](https://github.com/SrujanKatukam/jobnova)
 *Real-time digital human assistant with sub-500ms latency.*
 - **Tech:** Next.js 16, FastAPI, TypeScript, Tavus Persona API, LiveKit.
-- **Impact:** Engineered bi-directional speech-to-speech interaction achieving **<500ms latency** by optimizing WebRTC streams. [cite_start]Orchestrated secure AI streaming sessions with rigorous Pydantic validation.
+- **Impact:** Engineered bi-directional speech-to-speech interaction achieving **<500ms latency** by optimizing WebRTC streams. Orchestrated secure AI streaming sessions with rigorous Pydantic validation.
 
 #### 🧠 [Enterprise Agentic RAG Assistant](https://github.com/SrujanKatukam/rag-assistant)
 *Role-based knowledge assistant using Microservices Architecture.*
@@ -62,8 +60,8 @@ My true passion lies in **Generative AI**, specifically optimizing large-scale *
 ### 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrujanKatukam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrujanKatukam&layout=compact&langs_count=7&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srujankatukam&show_icons=true&theme=tokyonight&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srujankatukam&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 ---
@@ -76,8 +74,9 @@ My true passion lies in **Generative AI**, specifically optimizing large-scale *
 ---
 
 ### 🤝 Connect With Me
-<p align="left">
+<p align="center">
 <a href="mailto:srujankatukam18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/katukam-srujan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/katukam-srujan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
